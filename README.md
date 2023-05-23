@@ -6,4 +6,9 @@
 
 ![123](123.jpg)  
 
+I am currently a student pursuing the Full Stack Python Developer course. I have a strong passion for web development and I am eager to expand my skills in Python. I enjoy working on innovative projects and collaborating with fellow developers to create impactful solutions.
+
+## Skills
+- Python
+- Git
 
