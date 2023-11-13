@@ -12,3 +12,4 @@ I am currently a student pursuing the Full Stack Python Developer course. I have
 - Python
 - Git
 - SQL
+-Django
