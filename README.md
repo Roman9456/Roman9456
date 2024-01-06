@@ -14,7 +14,8 @@
         <a href="mailto:smolyakov_ra@mail.ru" target="blank" rel="noreferrer">
             <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:smolyakov_ra@mail.ru" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
-        <a href="hhttps://www.linkedin.com/in/роман-смольяков-0b057b267/" target="blank" rel="noreferrer">
+        <a href="www.linkedin.com/in/роман-смольяков-0b057b267"
+ target="blank" rel="noreferrer">
             <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/роман-смольяков-0b057b267/" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://www.facebook.com/profile.php?id=100011164603451" target="blank" rel="noreferrer">
