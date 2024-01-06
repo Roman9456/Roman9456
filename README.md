@@ -4,7 +4,7 @@
     </p>
     <br>
     <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://iconscout.com/lottie-animation/programmer-4375641" alt="Greetings"
+    <img src="200w.gif" alt="Greetings"
     </p>
     <!--connect with me-->
     <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
