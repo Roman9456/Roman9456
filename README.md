@@ -4,7 +4,7 @@
     </p>
     <br>
     <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" alt="Greetings"
+    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/" alt="Greetings"
     </p>
     <!--connect with me-->
     <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
