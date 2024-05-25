@@ -103,19 +103,19 @@
     # Top Projects ✨
 
 1. **Web Game**
-   - *Description:* Embark on an adventure with our captivating web-based game project <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> JavaScript
+   - *Description:* Embark on an adventure with our captivating web-based game project <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> 
    - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
 
 2. **Health Blog**
-   - *Description:* Dive into the world of wellness and explore our vibrant website about health <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="24" height="24" alt="HTML"> HTML, <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="24" height="24" alt="CSS"> CSS
+   - *Description:* Dive into the world of wellness and explore our vibrant website about health <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="24" height="24" alt="HTML">  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="24" height="24" alt="CSS">
    - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
 
 3. **VK Backup**
-   - *Description:* Seamlessly store your VK memories with our intuitive web-based cloud storage for VK (User Interface) <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> JavaScript
+   - *Description:* Seamlessly store your VK memories with our intuitive web-based cloud storage for VK (User Interface) <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> 
    - *GitHub Repository:* [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)
 
 4. **VKinder**
-   - *Description:* Fall in love with our ingenious analysis tool, akin to Tinder, but based on VK <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="24" height="24" alt="Python"> Python
+   - *Description:* Fall in love with our ingenious analysis tool, akin to Tinder, but based on VK <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="24" height="24" alt="Python">
    - *GitHub Repository:* [VKinder](https://github.com/Ligh7Fun/VKinder)
 
 
