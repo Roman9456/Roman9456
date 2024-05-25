@@ -107,8 +107,9 @@
    - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
 
 2. **Health Blog**
-   - *Description:* Dive into the world of wellness and explore our vibrant website about health <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="24" height="24" alt="HTML">  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="24" height="24" alt="CSS">
+   - *Description:* Dive into the world of wellness and explore our vibrant website about health <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="24" height="24" alt="HTML"> <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="24" height="24" alt="CSS">
    - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
+
 
 3. **VK Backup**
    - *Description:* Seamlessly store your VK memories with our intuitive web-based cloud storage for VK (User Interface) <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> 
