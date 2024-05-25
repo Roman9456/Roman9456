@@ -102,21 +102,21 @@
     # Top Projects ✨
 
 1. **Web Game**
-   - *Description:* Embark on an adventure with our captivating web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg =20x20)).
+   - *Description:* Embark on an adventure with our captivating web-based game project
+   - (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg).
    - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
 
 2. **Health Blog**
-   - *Description:* Dive into the world of wellness and explore our vibrant website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg =20x20), ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg =20x20)).
+   - *Description:* Dive into the world of wellness and explore our vibrant website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg), ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
    - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
 
 3. **VK Backup**
-   - *Description:* Seamlessly store your VK memories with our intuitive web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg =20x20)).
+   - *Description:* Seamlessly store your VK memories with our intuitive web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
    - *GitHub Repository:* [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)
 
 4. **VKinder**
-   - *Description:* Fall in love with our ingenious analysis tool, akin to Tinder, but based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg =20x20)).
+   - *Description:* Fall in love with our ingenious analysis tool, akin to Tinder, but based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
    - *GitHub Repository:* [VKinder](https://github.com/Ligh7Fun/VKinder)
-
 
 
 
