@@ -98,7 +98,7 @@
         </a>
     </p> 
 
-   
+    
     # Top Projects ✨
 
 1. **Web Game**
@@ -106,7 +106,7 @@
    - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
 
 2. **Health Blog**
-   - *Description:* Dive into the world of wellness and explore our vibrant website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg), ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg))
+   - *Description:* Dive into the world of wellness and explore our vibrant website about health (![HTML](https://www.vectorlogo.zone/logos/html/html-icon.svg), ![CSS](https://www.vectorlogo.zone/logos/css3/css3-icon.svg))
    - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
 
 3. **VK Backup**
@@ -116,6 +116,7 @@
 4. **VKinder**
    - *Description:* Fall in love with our ingenious analysis tool, akin to Tinder, but based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg))
    - *GitHub Repository:* [VKinder](https://github.com/Ligh7Fun/VKinder)
+
 
 
 
