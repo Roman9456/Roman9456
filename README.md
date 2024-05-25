@@ -101,22 +101,20 @@
    
     # Top Projects
 
-# Top Projects
-
 1. Web Game
-   - **Description:** A web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg){height=20}).
+   - **Description:** A web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg | height=20)).
    - **GitHub Repository:** [Web Game](https://github.com/Roman9456/WebGame)
 
 2. Health Blog
-   - **Description:** Website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg){height=20}, ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg){height=20}).
+   - **Description:** Website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg | height=20), ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg | height=20)).
    - **GitHub Repository:** [Health Blog](https://github.com/Roman9456/HealthBlog)
 
 3. VK Backup
-   - **Description:** Web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg){height=20}).
+   - **Description:** Web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg | height=20)).
    - **GitHub Repository:** [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)
 
 4. VKinder
-   - **Description:** Analysis tool similar to Tinder, based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg){height=20}).
+   - **Description:** Analysis tool similar to Tinder, based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg | height=20)).
    - **GitHub Repository:** [VKinder](https://github.com/Ligh7Fun/VKinder)
 
 
