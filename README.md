@@ -96,6 +96,26 @@
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
-    </p>
+    </p> 
+
+   
+     # Top Projects
+
+## 1. Web Game
+   - **Description:** A web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)).
+   - **GitHub Repository:** [Web Game](https://github.com/Roman9456/WebGame)
+
+## 2. Health Blog
+   - **Description:** Website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg), ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)).
+   - **GitHub Repository:** [Health Blog](https://github.com/Roman9456/HealthBlog)
+
+## 3. VK Backup
+   - **Description:** Web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)).
+   - **GitHub Repository:** [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)
+
+## 4. VKinder
+   - **Description:** Analysis tool similar to Tinder, based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)).
+   - **GitHub Repository:** [VKinder](https://github.com/Ligh7Fun/VKinder)
+
 
 </body>
