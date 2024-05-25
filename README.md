@@ -107,10 +107,18 @@
    - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
 
 2. **Health Blog**
-   - *Description:* Dive into the world of wellness and explore our vibrant website about health `<span class="rainbow-text">HTML</span>`, `<span class="rainbow-text">CSS</span>`;
-   - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
+   - *Description:* Dive into the world of wellness and explore our vibrant website about health `<span style="font-weight: bold; background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3); background-size: 200%; color: transparent; -webkit-background-clip: text; background-clip: text; animation: rainbow 2s linear infinite;">HTML</span>`, `<span style="font-weight: bold; background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3); background-size: 200%; color: transparent; -webkit-background-clip: text; background-clip: text; animation: rainbow 2s linear infinite;">CSS</span>`
 
-<link rel="stylesheet" type="text/css" href="styles.css">
+<style>
+@keyframes rainbow {
+  0% {
+    background-position: 0 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+</style>
 
 
 
