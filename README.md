@@ -99,22 +99,22 @@
     </p> 
 
    
- <img src="https://cdn.jsdelivr.net/gh/MartinHeinz/MartinHeinz/logo.svg" width="50" height="50" style="vertical-align:bottom"> Top Projects
+    # Top Projects
 
-## <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="30" height="30" style="vertical-align:bottom"> Web Game
-   - **Description:** A web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)).
+## 1. Web Game
+   - **Description:** A web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg){width=20}).
    - **GitHub Repository:** [Web Game](https://github.com/Roman9456/WebGame)
 
-## <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="30" height="30" style="vertical-align:bottom"> Health Blog
-   - **Description:** Website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg), ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)).
+## 2. Health Blog
+   - **Description:** Website about health (![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg){width=20}, ![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg){width=20}).
    - **GitHub Repository:** [Health Blog](https://github.com/Roman9456/HealthBlog)
 
-## <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="30" height="30" style="vertical-align:bottom"> VK Backup
-   - **Description:** Web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)).
+## 3. VK Backup
+   - **Description:** Web-based cloud storage for VK (User Interface) (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg){width=20}).
    - **GitHub Repository:** [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)
 
-## <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" height="30" style="vertical-align:bottom"> VKinder
-   - **Description:** Analysis tool similar to Tinder, based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)).
+## 4. VKinder
+   - **Description:** Analysis tool similar to Tinder, based on VK (![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg){width=20}).
    - **GitHub Repository:** [VKinder](https://github.com/Ligh7Fun/VKinder)
 
 </body>
