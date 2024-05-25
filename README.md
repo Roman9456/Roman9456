@@ -99,7 +99,7 @@
     </p> 
 
    
-    # <img src="https://cdn.jsdelivr.net/gh/MartinHeinz/MartinHeinz/logo.svg" width="50" height="50" style="vertical-align:bottom"> Top Projects
+ <img src="https://cdn.jsdelivr.net/gh/MartinHeinz/MartinHeinz/logo.svg" width="50" height="50" style="vertical-align:bottom"> Top Projects
 
 ## <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" width="30" height="30" style="vertical-align:bottom"> Web Game
    - **Description:** A web-based game project (![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)).
