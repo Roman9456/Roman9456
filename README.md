@@ -107,7 +107,7 @@
    - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
 
 2. **Health Blog**
-   - *Description:* Dive into the world of wellness and explore our vibrant website about health
+   - Description: This is a coursework on adaptive web design focusing on the world of wellness and health exploration through our vibrant website.
    - *Technology:* <span style="color: orange;">HTML</span>, <span style="color: blue;">CSS</span>
    - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
 
