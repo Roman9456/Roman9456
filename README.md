@@ -121,8 +121,7 @@
    - *GitHub Repository:* [VKinder](https://github.com/Ligh7Fun/VKinder)
 
 5. **Chaos Organizer**
-   - *Description:* A chatbot that allows you to save text messages, links, and media files. Easy to use, with features enabling effective user interaction. 
-   - *Technology:* <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript">
+   - *Description:* A chatbot that allows you to save text messages, links, and media files. Easy to use, with features enabling effective user interaction. <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript">
    - *GitHub Repository:* [Chaos Organizer](https://github.com/Roman9456/Chaos-Organizer)
 
 
