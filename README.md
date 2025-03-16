@@ -1,12 +1,14 @@
-<body style="background-color: #000000;">
+<body style="background-color: #000000; color: #ffffff; font-family: Arial, sans-serif;">
+    <!-- Header -->
     <p align='center' style='margin: 16px 4px 8px;'>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Hi+there,+I'm+Roman+Smolyakov,;I'm+a+Python+developer." alt="Hi there, I'm Roman Smolyakov. I am a  Python developer." />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Hi+there,+I'm+Roman+Smolyakov,;I'm+a+Python+developer." alt="Hi there, I'm Roman Smolyakov. I am a Python developer." />
     </p>
     <br>
     <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="321w.gif" alt="Greetings"
+        <img src="321w.gif" alt="Greetings">
     </p>
-    <!--connect with me-->
+
+    <!-- Connect with Me -->
     <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
         Connect with me:
     </h3>
@@ -14,22 +16,44 @@
         <a href="mailto:smolyakov_ra@mail.ru" target="blank" rel="noreferrer">
             <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:smolyakov_ra@mail.ru" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
-        <a href="www.linkedin.com/in/роман-смольяков-0b057b267"
- target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/роман-смольяков-0b057b267" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <a href="https://www.linkedin.com/in/роман-смольяков-0b057b267" target="blank" rel="noreferrer">
+            <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://www.facebook.com/profile.php?id=100011164603451" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="https://www.facebook.com/profile.php?id=100011164603451" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://instagram.com/man_who_keeps_running" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/man_who_keeps_running" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
+            <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
         <a href="https://vk.com/man_who_keeps_running" target="blank" rel="noreferrer">
-            <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="https://vk.com/man_who_keeps_running" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+            <img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="VK" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
     </p>
-    <!--Language-->
+
+    <!-- GitHub Stats -->
+    <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+        GitHub Stats:
+    </h3>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Roman9456&show_icons=true&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman9456&layout=compact&theme=dark" alt="Top Languages" />
+    </p>
+
+    <!-- Skills -->
+    <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+        Skills:
+    </h3>
+    <p align="center">
+        <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python">
+        <img src="https://img.shields.io/badge/Django-Intermediate-green" alt="Django">
+        <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-Advanced-orange" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3">
+        <img src="https://img.shields.io/badge/Git-Expert-red" alt="Git">
+        <img src="https://img.shields.io/badge/Linux-Intermediate-lightgrey" alt="Linux">
+    </p>
+
+    <!-- Languages and Tools -->
     <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
         Languages and Tools:
     </h3>
@@ -48,86 +72,54 @@
         </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-             </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
         </a>
+        <!-- Add more tools here -->
+    </p>
+
+    <!-- Top Projects -->
+    <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+        Top Projects ✨
+    </h3>
+    <p align="left" style='margin: 16px 4px 32px;'>
+        1. **Web Game**  
+           - *Description:* A web-based game built using JavaScript and HTML5. Features include interactive gameplay, score tracking, and responsive design.  
+           - *Technologies:* JavaScript, HTML5, CSS3  
+           - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)  
+
+        2. **Health Blog**  
+           - *Description:* A responsive health and wellness blog built as part of a coursework project. Focuses on adaptive web design and user experience.  
+           - *Technologies:* HTML, CSS  
+           - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)  
+
+        3. **VK Backup**  
+           - *Description:* A web-based cloud storage for VK memories with an intuitive user interface.  
+           - *Technologies:* JavaScript, HTML, CSS  
+           - *GitHub Repository:* [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)  
+
+        4. **VKinder**  
+           - *Description:* A VK-based analysis tool inspired by Tinder.  
+           - *Technologies:* Python, VK API  
+           - *GitHub Repository:* [VKinder](https://github.com/Ligh7Fun/VKinder)  
+
+        5. **Chaos Organizer**  
+           - *Description:* A chatbot for organizing text messages, links, and media files.  
+           - *Technologies:* JavaScript, Node.js  
+           - *GitHub Repository:* [Chaos Organizer](https://github.com/Roman9456/Chaos-Organizer)  
+    </p>
+
+    <!-- Contributions Graph -->
+    <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+        Contributions:
+    </h3>
+    <p align="center">
+        <img src="https://ghchart.rshah.org/Roman9456" alt="GitHub Contributions">
+    </p>
+
+    <!-- Footer -->
+    <br>
+    <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Roman9456&color=blue" alt="Profile Views">
         <br>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <br>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sql-lite" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtual-box" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-        </a>
-    </p> 
-
-    
-
-    # Top Projects ✨
-
-1. **Web Game**
-   - *Description:* Embark on an adventure with our captivating web-based game project <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> 
-   - *GitHub Repository:* [Web Game](https://github.com/Roman9456/WebGame)
-
-2. **Health Blog**
-   - Description: This is a coursework on adaptive web design focusing on the world of wellness and health exploration through our vibrant website.
-   - *Technology:* <span style="color: orange;">HTML</span>, <span style="color: blue;">CSS</span>
-   - *GitHub Repository:* [Health Blog](https://github.com/Roman9456/HealthBlog)
-
-
-3. **VK Backup**
-   - *Description:* Seamlessly store your VK memories with our intuitive web-based cloud storage for VK (User Interface) <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript"> 
-   - *GitHub Repository:* [VK Web Cloud](https://github.com/Roman9456/webcloud_VK)
-
-4. **VKinder**
-   - *Description:* Fall in love with our ingenious analysis tool, akin to Tinder, but based on VK <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="24" height="24" alt="Python">
-   - *GitHub Repository:* [VKinder](https://github.com/Ligh7Fun/VKinder)
-
-5. **Chaos Organizer**
-   - *Description:* A chatbot that allows you to save text messages, links, and media files. Easy to use, with features enabling effective user interaction. <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="24" height="24" alt="JavaScript">
-   - *GitHub Repository:* [Chaos Organizer](https://github.com/Roman9456/Chaos-Organizer)
-
-
-
-
-
-
-
+        <i>Keep coding, keep exploring!</i>
+    </p>
 </body>
