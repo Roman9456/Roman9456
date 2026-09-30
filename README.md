@@ -1,10 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=54A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi+there%2C+I'm+Roman+Smolyakov;Python+%26+JavaScript+developer;FastAPI+%C2%B7+Django+%C2%B7+React;I+build+tools+that+save+people+time" alt="Hi there, I'm Roman Smolyakov — Python & JavaScript developer" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=54A6FF&center=true&vCenter=true&width=640&height=60&lines=Hi+there%2C+I'm+Roman+Smolyakov;Python+%26+JavaScript+developer;FastAPI+%C2%B7+Django+%C2%B7+React;I+build+tools+that+save+people+time" alt="Hi there, I'm Roman Smolyakov — Python & JavaScript developer" />
+<p align="center">
+  <img src="321w.gif" alt="Greetings" width="240" />
+</p>
 
-<img src="321w.gif" alt="Greetings" height="140" />
-
-<p>
+<p align="center">
   <a href="mailto:smolyakov_ra@mail.ru"><img src="https://img.shields.io/badge/Email-smolyakov__ra%40mail.ru-EA4335?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/роман-смольяков-0b057b267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://vk.com/man_who_keeps_running"><img src="https://img.shields.io/badge/VK-0077FF?style=flat-square&logo=vk&logoColor=white" alt="VK" /></a>
@@ -12,8 +14,6 @@
   <a href="https://www.facebook.com/profile.php?id=100011164603451"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <img src="https://komarev.com/ghpvc/?username=Roman9456&style=flat-square&color=54A6FF&label=Profile+views" alt="Profile views" />
 </p>
-
-</div>
 
 ## 👋 About me
 
